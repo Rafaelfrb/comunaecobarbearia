@@ -49,6 +49,10 @@ nav a:hover{
     padding: 50px 0;
 }
 
+.produtospic {
+    width: 75%;
+}
+
 .produtos li{
     display: inline-block;
     text-align: center;

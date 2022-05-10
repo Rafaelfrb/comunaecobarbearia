@@ -183,6 +183,11 @@ td, th {
     margin: 0 auto;
 }
 
+.flex-container{
+    display: flex;
+    align-items: center;
+}
+
 .principal p {
     margin: 0 0 1em;
 }

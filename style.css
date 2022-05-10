@@ -43,6 +43,12 @@ nav a:hover{
     text-decoration: underline;
 }
 
+.productlist {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10px;
+}
+
 .produtos{
     width: 940px;
     margin: 0 auto;

@@ -94,11 +94,6 @@ thead {
     text-align: center;
 }
 
-td, th {
-    border: 1px solid black;
-    padding: 8px 15px;
-}
-
 /*css da página inicial */
 
 .banner {
@@ -190,6 +185,8 @@ td, th {
 }
 
 .video {
-    width: 250px;
-    margin: 2em auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
 }

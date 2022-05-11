@@ -59,6 +59,8 @@ footer {
     padding: 1rem;
     background: #ffffff;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
   
 .instagram {
@@ -85,13 +87,6 @@ form label, form legend {
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
-}
-
-thead {
-    background: grey;
-    color: white;
-    font-weight: bold;
-    text-align: center;
 }
 
 /*css da página inicial */
@@ -188,5 +183,5 @@ thead {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 40px;
+    margin-top: 80px;
 }

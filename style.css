@@ -183,6 +183,10 @@ form label, form legend {
     text-align: center;
 }
 
+.fading{
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
 .video {
     display: flex;
     align-items: center;

@@ -55,6 +55,10 @@ footer {
     background: #ffffff;
 }
 
+.git {
+    text-decoration: none;
+}
+
 .social-footer {
     padding: 1rem;
     background: #ffffff;

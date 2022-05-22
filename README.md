@@ -1,3 +1,5 @@
 # comunaecobarbearia
 Website for Comuna Ecobarbearia
-based on what I learned with Pedro Marins I intend to create a website for this barbershop next to where I live. 
+
+Based on what I learned in HTML and CSS courses with Pedro Marins I created this website as a way to practice everything the course has presented.
+It is a complete basic website for a barbershop in Brasília - DF - Brazil.
